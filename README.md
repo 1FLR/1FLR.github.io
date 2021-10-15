@@ -1,4 +1,4 @@
-# 1FLR (Flare Token) Details:
+# 1FLR (Flare Token) Details
 
 ## Contract Address:
 `0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4`
