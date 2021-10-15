@@ -19,11 +19,17 @@
 [https://github.com/1FLR/1FLR-Contract/blob/main/FlareToken.sol](https://github.com/1FLR/1FLR-Contract/blob/main/FlareToken.sol)
 
 ## Network:
-Name: `Polygon` (MATIC)
+Name: `Polygon` (or `MATIC`)
 
 ChainID: `137`
 
 Currency: `MATIC`
+
+## IS ERC20?
+`NO`
+
+## IS ERC20 Compatible?
+`YES`
 
 ## Contract Address:
 `0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4`
