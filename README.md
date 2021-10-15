@@ -1,4 +1,7 @@
-# 1FLR (Flare Token)
+# 1FLR (Flare Token) Details:
+
+## Contract Address:
+`0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4`
 
 ## Token Name
 `Flare Token`
@@ -25,18 +28,14 @@ ChainID: `137`
 
 Currency: `MATIC`
 
+## Contract Explorer
+[https://polygonscan.com/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4](https://polygonscan.com/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4)
+
 ## IS ERC20?
 `NO`
 
 ## IS ERC20 Compatible?
 `YES`
-
-## Contract Address:
-`0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4`
-
-## Contract Explorer
-[https://polygonscan.com/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4](https://polygonscan.com/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4)
-
 
 ## Pool Info
 [https://info.quickswap.exchange/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4](https://info.quickswap.exchange/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4)
